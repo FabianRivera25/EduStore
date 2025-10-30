@@ -1,0 +1,9 @@
+npm install bootstrap
+
+npm install bootstrap-icons
+npm init -y
+npm install json-server --save-dev
+npm install ngx-toastr --save
+npm install @angular/animations --save --force 
+npm install sweetalert2
+npm install ngx-bootstrap --save

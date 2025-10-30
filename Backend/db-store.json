@@ -1,0 +1,46 @@
+{
+  "clientes": [
+    {
+      "id": "9272",
+      "identificacion": "222-222-222-22",
+      "nombreCliente": "Carlos mejia",
+      "telefono": "+505 90876473",
+      "email": "carlos@gmail.com",
+      "clave": "Carlos2562+-"
+    },
+    {
+      "id": "08b9",
+      "identificacion": "333-333-333-33",
+      "nombreCliente": "Maria solorzano",
+      "telefono": "+505 78765465",
+      "email": "Maria@Example.com",
+      "clave": "Maria2562+-"
+    }
+  ],
+  "productos": [
+    {
+      "nombreProducto": "borrador de leche",
+      "descripcionProducto": "Borrador suave para lápiz y portaminas",
+      "precio": 0.27,
+      "imagen": "",
+      "id": "aib2"
+    },
+    {
+      "nombreProducto": "Marcadores",
+      "descripcionProducto": "Marcadores permanentes",
+      "precio": 1.50,
+      "imagen": "",
+      "id": "b2c3"
+    },
+    {
+      "nombreProducto": "Cartulina",
+      "descripcionProducto": "Cartulina de colores para trabajos escolares",
+      "precio": 1.00,
+      "imagen": "",
+      "id": "c3d4"
+    }
+
+
+
+  ]
+}
